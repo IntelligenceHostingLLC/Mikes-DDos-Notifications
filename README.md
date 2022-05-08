@@ -30,7 +30,7 @@ Name [client]: Snoop (you can make this whatever)
 
 go to /etc/openvpn/server/server.conf 
 
-change the versoity to 4
+change the verbosity to 4
 
 add the status log to the main openvpn directory
 
