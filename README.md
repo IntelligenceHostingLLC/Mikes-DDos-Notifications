@@ -3,6 +3,8 @@
 
 ### Installiation (tested with ubunutu 20) (all steps)
 apt install python3-pip
+apt install tcpdump
+apt install tshark
 
 pip3 install psutil
 
