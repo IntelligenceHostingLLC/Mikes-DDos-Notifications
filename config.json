@@ -1,0 +1,15 @@
+{
+    "webhook": "https://discord.com/api/webhooks/947556062993711125/4W1_bHQcD7ycGV6TVWTU6roPpvp_BBo-AebeHKoT_EpKVtIgDCJEsgK2Bg22BqYlFEuj",
+    "username": "Watcher",
+    "ServerHeader": "usa-ny-lightgame.one",
+    "title": "We have detected a D(DOS) attack on your infrastructure",
+    "description": "In order to protect your services online we have enabled mitigation.",
+    "color": 16711680,
+    "footergif": "https://media.discordapp.net/attachments/858973685908897802/858974550984097833/download.gif",
+    "license": "FreeDDosNotificationsBySnoop",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbesthqwallpapers.com%2Fimg%2Foriginal%2F109572%2Fnvidia-red-logo-4k-red-brickwall-nvidia-logo-brands.jpg&f=1&nofb=1",
+    "url": "https://www.lightgame.one",
+    "banner": "https://cdn.discordapp.com/attachments/968000706852294666/972754559124537344/standard_1.gif?size=4096",
+    "footer": "We have detected a ddos attack we have saved it as a .pcap"
+}
+
